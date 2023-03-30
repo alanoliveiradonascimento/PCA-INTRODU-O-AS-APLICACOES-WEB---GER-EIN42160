@@ -1,0 +1,43 @@
+.menu ul li{    
+    color:darkgray;
+    float: left;
+    width: 190px;
+    height: 40px;
+    display: block;
+    text-align: right;
+    line-height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.menu ul li:hover{
+    color: #148056;
+}    
+
+.hello1 {
+    font-size: 50px;
+    color: darkolivegreen;
+    position: absolute;
+    top: 350px;
+    left: 200px;
+}
+
+.hello2 {
+    font-size: 20px;
+    color: grey;
+    position: absolute;
+    top: 410px;
+    left: 200px;
+}
+
+**{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+
+  
+  
